@@ -732,10 +732,11 @@ input[type="radio"]+label:before {
 
 .numbertext {
 	color: #f2f2f2;
-	font-size: 12px;
+	font-size: 15px;
 	padding: 8px 12px;
 	position: absolute;
 	top: 0;
+	font: inherit;
 }
 
 /* The dots/bullets/indicators */
