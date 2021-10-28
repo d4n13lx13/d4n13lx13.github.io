@@ -705,7 +705,7 @@ input[type="radio"]+label:before {
 
 .next {
 	right: 0;
-	border-radius: 3px 0 0 3px;
+	border-radius: 4px 0 0 4px;
 }
 
 /* On hover, add a black background color with a little bit see-through */
@@ -719,7 +719,7 @@ input[type="radio"]+label:before {
 .text {
 	color: #f2f2f2;
 	font-size: 15px;
-	padding: 8px 12px;
+	padding-bottom: 8px 12px;
 	position: absolute;
 	bottom: 8px;
 	width: 100%;
