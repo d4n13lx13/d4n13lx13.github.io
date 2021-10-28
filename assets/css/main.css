@@ -743,7 +743,7 @@ input[type="radio"]+label:before {
 	font: inherit;
 	justify-content: center;
 	align-items: center;
-	background-color: rgba(0, 0, 0, 0.85);
+	background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* The dots/bullets/indicators */
