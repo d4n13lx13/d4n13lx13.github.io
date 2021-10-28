@@ -719,10 +719,9 @@ input[type="radio"]+label:before {
 .text {
 	color: #f2f2f2;
 	font-size: 15px;
-	display: block;
 	padding: 8px 12px;
 	position: absolute;
-	bottom: 8px;
+	bottom: 0px;
 	width: 100%;
 	text-align: center;
 	background-color: #000000;
