@@ -683,6 +683,11 @@ input[type="radio"]+label:before {
 .mySlides {
 	display: none;
 }
+.mySlides img {
+    height: 500px; /* Adjust the height as needed */
+    width: auto; /* This will maintain the aspect ratio of the images */
+	object-fit: contain; /* This will ensure the image fits within the area without cropping */
+}
 
 /* Next & previous buttons */
 
